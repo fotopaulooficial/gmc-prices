@@ -5,3 +5,5 @@ node_modules
 *.json.key
 sa-key.json
 next-env.d.ts
+*.tsbuildinfo
+.taste-skill/
